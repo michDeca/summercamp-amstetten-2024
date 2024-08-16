@@ -26,7 +26,7 @@
 
 Wenn erledigt ~~durchstreichen~~/entfernen
 
-- Bessere Formatierung für angabe.odt (bzw Erstellung einer allgemeinen Vorlage: odt/html?)
+- ~~Bessere Formatierung für angabe.odt (bzw Erstellung einer allgemeinen Vorlage: odt/html?)~~
 - Ausprogrammierung Handgelenksmessung
 - Ausprogrammierung bessere Menüsteuerung
 - Ausprgrammierung Temperaturanzeige
